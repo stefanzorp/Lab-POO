@@ -23,9 +23,6 @@ public:
     //Meniuri
     void MeniuBarca();
 
-    void IncarcaCamereDinFisier();
-    void IncarcaAngajatiDinFisier();
-    void IncarcaRezervariDinFisier();
 
     void RealizeazaPescuit();
     void VizualizareAcvariu();

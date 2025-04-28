@@ -131,4 +131,4 @@ void Barca::IncarcaPrinsiDinFisier()
 }
 
 
-//mai trb sa fac functiile pentru adaugarea in fisierul de prinsi
+//mai trb sa fac functiile pentru adaugarea in fisierul de pesti prinsi
