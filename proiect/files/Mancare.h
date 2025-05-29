@@ -1,1 +1,0 @@
-//aici pt mecanica cand pescuiesc sa mi se faca foame si imi va trb mancare
